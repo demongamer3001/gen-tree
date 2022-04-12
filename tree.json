@@ -1,0 +1,6 @@
+{
+    "a_folder": {
+        "another_folder": { "empty_folder": {} }
+    },
+    "another_folder": {}
+}
